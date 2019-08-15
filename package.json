@@ -1,0 +1,16 @@
+{
+  "name": "trueautomation-javascript",
+  "version": "1.0.0",
+  "description": "JavaScript + TrueAutomation example project",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/specs/*.js"
+  },
+  "dependencies": {
+    "selenium-webdriver": "^4.0.0-alpha.4"
+  },
+  "devDependencies": {
+    "trueautomation-selenium-webdriver": "~0.3",
+    "trueautomation-helper": "~0.3"
+  }
+}
