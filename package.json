@@ -7,7 +7,7 @@
     "test": "node test/specs/*.js"
   },
   "dependencies": {
-    "selenium-webdriver": "^4.0.0-alpha.4"
+    "selenium-webdriver": "^4.34.0"
   },
   "devDependencies": {
     "trueautomation-selenium-webdriver": "~0.3",
